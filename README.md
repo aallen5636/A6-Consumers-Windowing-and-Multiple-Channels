@@ -74,3 +74,6 @@ Screenshot in Anaconda Prompt
 
 <img width="796" alt="Smoke_Alert 2" src="https://user-images.githubusercontent.com/95989498/219909953-71995ad1-7838-4c76-bf8b-ea2464aa1745.png">
 
+## Screenshot of Food A & B Consumer Running:
+
+<img width="866" alt="Food A   B Consumer" src="https://user-images.githubusercontent.com/95989498/219910136-f4d12449-5e20-4407-a935-d2f5f7995095.png">
