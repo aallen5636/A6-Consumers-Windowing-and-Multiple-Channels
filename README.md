@@ -1,5 +1,5 @@
 # Name: Ashley Allen
-# streaming-05-smart-smoker
+# A6: Consumers, Windowing, and Multiple Channels
  Design and Implement a producer for the Smart Smoker App
  
 ## Before You Begin
@@ -54,9 +54,20 @@ Python:
 
 Simulate a streaming series of temperature readings from our smart smoker and two foods. Create a producer to send these temperature readings to RabbitMQ. Create three consumer processes, each one monitoring one of the temperature streams. Perform calculations to determine if a significant event has occurred.
 
+##Consumer Requirements
+The smoker temperature decreases by more than 15 degrees F in 2.5 minutes (smoker alert!)
+Any food temperature changes less than 1 degree F in 10 minutes (food stall!)
 
-## Screenshots of Program Running:
+## Screenshot of Producer Running:
 
 Screenshot in Anaconda Prompt
 
 <img width="809" alt="Terminal" src="https://user-images.githubusercontent.com/95989498/218274091-0c80bac9-f9c6-416a-905b-cee0e25bae4e.png">
+
+## Screenshot of Consumer Running:
+
+<img width="669" alt="Producer:Consumer" src="https://user-images.githubusercontent.com/95989498/219905553-67e65d0b-1a65-4bba-8f7b-0689a617ff93.png">
+
+## Screenshot of Smoker_Alert Running:
+
+<img width="883" alt="Smoker_Alert" src="https://user-images.githubusercontent.com/95989498/219905567-7e192ec0-44c1-4f27-87b0-d653117f18ec.png">
