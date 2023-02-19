@@ -71,3 +71,6 @@ Screenshot in Anaconda Prompt
 ## Screenshot of Smoker_Alert Running:
 
 <img width="883" alt="Smoker_Alert" src="https://user-images.githubusercontent.com/95989498/219905567-7e192ec0-44c1-4f27-87b0-d653117f18ec.png">
+
+<img width="796" alt="Smoke_Alert 2" src="https://user-images.githubusercontent.com/95989498/219909953-71995ad1-7838-4c76-bf8b-ea2464aa1745.png">
+
