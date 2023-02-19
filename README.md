@@ -60,8 +60,6 @@ Any food temperature changes less than 1 degree F in 10 minutes (food stall!)
 
 ## Screenshot of Producer Running:
 
-Screenshot in Anaconda Prompt
-
 <img width="809" alt="Terminal" src="https://user-images.githubusercontent.com/95989498/218274091-0c80bac9-f9c6-416a-905b-cee0e25bae4e.png">
 
 ## Screenshot of Consumer Running:
